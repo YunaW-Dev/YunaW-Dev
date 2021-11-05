@@ -22,6 +22,7 @@
 ![additional](https://img.shields.io/static/v1?label=&message=additional:&color=660B5E&style=flat-square)
 ![algorithm](https://img.shields.io/static/v1?logo=&label=o&message=algorithm&color=111&logoColor=AAA&style=flat-square)
 ![leetcode](https://img.shields.io/static/v1?logo=leetcode&label=&message=leetcode&color=111&logoColor=AAA&style=flat-square)
+![kaggle](https://img.shields.io/static/v1?logo=kaggle&label=&message=kaggle&color=111&logoColor=AAA&style=flat-square)
 ![coursera](https://img.shields.io/static/v1?logo=coursera&label=&message=coursera&color=111&logoColor=AAA&style=flat-square)
 
 ----
