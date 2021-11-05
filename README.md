@@ -28,3 +28,6 @@
 <a href="https://www.linkedin.com/in/yunaw-dev/">
   <img align="left" alt="Yuna's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Yuan-Wang-227">
+  <img align="left" alt="Yuna's Research" width="20px" src="https://cdn-icons-png.flaticon.com/512/49/49394.png" />
+</a>
