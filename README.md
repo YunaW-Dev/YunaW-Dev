@@ -19,8 +19,10 @@
 ![googlecolab](https://img.shields.io/static/v1?logo=googlecolab&label=&message=googlecolab&color=111&logoColor=AAA&style=flat-square)
 
 
-![additional skills](https://img.shields.io/static/v1?label=&message=additional:&color=660B5E&style=flat-square)
-![algorithm](https://img.shields.io/static/v1?logo=algorithm&label=&message=algorithm&color=111&logoColor=AAA&style=flat-square)
+![additional](https://img.shields.io/static/v1?label=&message=additional:&color=660B5E&style=flat-square)
+![algorithm](https://img.shields.io/static/v1?logo=&label=o&message=algorithm&color=111&logoColor=AAA&style=flat-square)
+![leetcode](https://img.shields.io/static/v1?logo=leetcode&label=&message=leetcode&color=111&logoColor=AAA&style=flat-square)
+![coursera](https://img.shields.io/static/v1?logo=coursera&label=&message=coursera&color=111&logoColor=AAA&style=flat-square)
 
 ----
 
