@@ -1,7 +1,7 @@
 
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-### Hi, I'm Yuna! &nbsp;&nbsp;<sup>❤️ &#12297; I love Mobile Development, Data and Machine learning. I enjoy playing Neir when I can manage.&#12296; ❤️</sup>
+### Hi, I'm Yuna! &nbsp;&nbsp;<sup>❤️ &#12297; I love Application Development and Data. I enjoy occasional doses of Genshin Impact when I can manage.&#12296; ❤️</sup>
 
 ----
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=660B5E&style=flat-square)
